@@ -1,5 +1,5 @@
 # Microbiome
 
-Pipeline for microbiome composition and function analysis using Next Generation Sequencing (NGS) data.
+Pipeline for microbiome composition and function analysis using unmapped Next Generation Sequencing (NGS) data.
 
-Please cite the following paper: 
+Please cite the following paper: Characterization of the consensus mucosal microbiome of colorectal cancer
