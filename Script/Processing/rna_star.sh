@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Set configuration variables (BPIPE_DIR, PIPES_DIR, BPIPE_EXE, ..),  
-source /mnt/IPGcrc/00_Code/bpipe_config.sh -t 48 -m 96 -l rna_star
-
 # Function to print help
 print_usage()
 {
