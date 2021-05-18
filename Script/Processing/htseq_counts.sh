@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#ct_dir='/mnt/IPGcrc/IPG04_RNA_test/A01_180731_pipeline_w_fusion'
 ct_dir='.'
 >all.htseq.counts.txt
 
