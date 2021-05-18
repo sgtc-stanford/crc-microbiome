@@ -1,5 +1,4 @@
 #!/bin/bash
-CODE_DIR='/mnt/IPGcrc/00_Code'
 
 # Function to print help
 print_usage()
