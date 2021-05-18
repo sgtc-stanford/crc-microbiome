@@ -1,8 +1,4 @@
 #!/bin/bash
-CODE_DIR='/mnt/IPGcrc/00_Code'
-RUN_DIR='/mnt/IPGcrc/Seq_Runs'
-PROJECT_DIR='/mnt/IPGcrc/IPG03_exome_crc'
-SAMPLE_DIR="${PROJECT_DIR}/00_Samples"
 
 # Function to print help
 print_usage()
